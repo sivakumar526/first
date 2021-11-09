@@ -1,0 +1,1 @@
+this is from locat git file3 after creating ssh key
